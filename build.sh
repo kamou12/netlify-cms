@@ -1,3 +1,4 @@
+npm install
 cd website
-yarn
-yarn build
+npm install
+npm run build
